@@ -4,19 +4,19 @@
     "target_path": "vendor/miuicamera",
     "branch": "10.0",
     "remote": "github"
-  }
+  },
   {
     "repository": "rzlamrr/vendor_xiaomi_ginkgo",
     "target_path": "vendor/xiaomi/ginkgo",
     "branch": "ten",
     "remote": "github"
-  }
+  },
   {
     "repository": "rzlamrr/kernel_xiaomi_ginkgo",
     "target_path": "kernel/xiaomi/ginkgo",
     "branch": "ten",
     "remote": "github"
-  }
+  },
   {
     "repository": "NusantaraDevs/clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-11.0",
